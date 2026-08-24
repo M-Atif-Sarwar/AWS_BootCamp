@@ -1,0 +1,12 @@
+# Ignore the JSONs folder
+Jsons/
+
+# Ignore sensitive AWS credentials / environment files
+*.pem
+*.key
+.env
+.aws/
+
+# Ignore OS metadata files
+.DS_Store
+Thumbs.db
